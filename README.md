@@ -1,63 +1,25 @@
 # Shahin — Logo Design
 
-A logo design concept for a menswear brand.
+A logo design concept for a menswear brand, inspired by strength, elegance, and modern masculinity.
 
-## Project Overview
+| | |
+|---|---|
+| **Project** | Logo Design |
+| **Brand name** | Shahin (شاهين) |
+| **Industry** | Menswear |
 
-A logo concept inspired by strength, elegance, and modern masculinity.
+## Logo
 
-**Project:** Logo Design
-**Brand Name:** Shahin (شاهين)
-**Industry:** Menswear
+<img src="Logo-Green.png" alt="Shahin green logo" width="32%"> <img src="Logo-Icon.png" alt="Shahin logo icon" width="32%"> <img src="Logo-White.png" alt="Shahin white logo" width="32%">
 
-## Logo Design
+## Mockups
 
-### Green Logo
+<img src="Mockup-01.png" alt="Shahin mockup 01" width="32%"> <img src="Mockup-02.png" alt="Shahin mockup 02" width="32%"> <img src="Mockup-03.png" alt="Shahin mockup 03" width="32%">
+<img src="Mockup-04.png" alt="Shahin mockup 04" width="32%"> <img src="Mockup-05.png" alt="Shahin mockup 05" width="32%"> <img src="Mocup-06.png" alt="Shahin mockup 06" width="32%">
+<img src="Mockup-07.png" alt="Shahin mockup 07" width="32%"> <img src="Mockup-08.png" alt="Shahin mockup 08" width="32%"> <img src="Mockup-09.png" alt="Shahin mockup 09" width="32%">
 
-![Shahin Green Logo](Logo-Green.png)
+## More work
 
-### Icon
+Behance: https://www.behance.net/wejdan_design_
 
-![Shahin Logo Icon](Logo-Icon.png)
-
-### White Logo
-
-![Shahin White Logo](Logo-White.png)
-
-## Logo Mockups
-
-### Mockup 01
-
-![Shahin Mockup 01](Mockup-01.png)
-
-### Mockup 02
-
-![Shahin Mockup 02](Mockup-02.png)
-
-### Mockup 03
-
-![Shahin Mockup 03](Mockup-03.png)
-
-### Mockup 04
-
-![Shahin Mockup 04](Mockup-04.png)
-
-### Mockup 05
-
-![Shahin Mockup 05](Mockup-05.png)
-
-### Mockup 06
-
-![Shahin Mockup 06](Mocup-06.png)
-
-### Mockup 07
-
-![Shahin Mockup 07](Mockup-07.png)
-
-### Mockup 08
-
-![Shahin Mockup 08](Mockup-08.png)
-
-### Mockup 09
-
-![Shahin Mockup 09](Mockup-09.png)
+© Wejdan Abdulaziz. All rights reserved.
