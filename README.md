@@ -1,6 +1,6 @@
 # Shahin — Logo Design
 
-A logo design concept for a menswear brand, inspired by strength, elegance, and modern masculinity.
+A logo design for a menswear brand, inspired by strength, elegance, and modern masculinity.
 
 | | |
 |---|---|
